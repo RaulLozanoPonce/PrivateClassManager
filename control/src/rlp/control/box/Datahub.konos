@@ -1,0 +1,6 @@
+dsl Konos
+
+Sentinel PendingEventChecker as ClockListener(pattern = "0 0/1 * 1/1 * ? *", timeZone = "Atlantic/Canary") BootListener
+    mean = "Cada quince minutos"
+
+Datalake(path = "{datalake_path}") as Local

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Intino: org.openjdk.jol:jol-core:0.10">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openjdk/jol/jol-core/0.10/jol-core-0.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Intino: com.fasterxml.jackson.core:jackson-core:2.9.10">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.9.10/jackson-core-2.9.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

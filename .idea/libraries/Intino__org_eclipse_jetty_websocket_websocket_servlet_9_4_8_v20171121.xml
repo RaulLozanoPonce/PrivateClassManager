@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Intino: org.eclipse.jetty.websocket:websocket-servlet:9.4.8.v20171121">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/websocket/websocket-servlet/9.4.8.v20171121/websocket-servlet-9.4.8.v20171121.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

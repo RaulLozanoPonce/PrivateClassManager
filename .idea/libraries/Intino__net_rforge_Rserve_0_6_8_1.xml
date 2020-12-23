@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Intino: net.rforge:Rserve:0.6-8.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/rforge/Rserve/0.6-8.1/Rserve-0.6-8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

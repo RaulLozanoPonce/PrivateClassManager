@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Intino: net.rforge:REngine:0.6-8.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/rforge/REngine/0.6-8.1/REngine-0.6-8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

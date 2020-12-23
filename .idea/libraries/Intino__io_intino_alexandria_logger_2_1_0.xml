@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Intino: io.intino.alexandria:logger:2.1.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/intino/alexandria/logger/2.1.0/logger-2.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

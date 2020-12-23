@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Intino: org.apache.commons:commons-text:1.8">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-text/1.8/commons-text-1.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

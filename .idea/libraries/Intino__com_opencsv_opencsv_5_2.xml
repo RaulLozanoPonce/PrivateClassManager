@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Intino: com.opencsv:opencsv:5.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/opencsv/opencsv/5.2/opencsv-5.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

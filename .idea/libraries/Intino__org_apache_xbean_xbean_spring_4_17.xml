@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Intino: org.apache.xbean:xbean-spring:4.17">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/xbean/xbean-spring/4.17/xbean-spring-4.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

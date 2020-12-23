@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Intino: org.glassfish.tyrus:tyrus-client:1.16">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/tyrus/tyrus-client/1.16/tyrus-client-1.16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
